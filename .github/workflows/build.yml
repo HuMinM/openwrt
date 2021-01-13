@@ -1,4 +1,4 @@
-name: Lean_x86_64
+name: openwrt_x86_64
 
 on: 
   release:
